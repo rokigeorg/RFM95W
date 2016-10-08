@@ -1,0 +1,1 @@
+My attampt to build a LoRA Gateway with the HopeRF RFM95W Modul and the certifide LoRa FSK modul SX1276 from Semtech. The RFM95 is solted to a Adafruit LoRa RFM9x breakout board. The adafruit breakout board is connceted to a Raspberry pi model B.
