@@ -379,7 +379,7 @@ int main (void){
 	int i;
 	for(i=0; i < sizeof(registers);i++){
 
-        printf("%s Addr -> 0x", registerNames[i]);
+        cout << registerNames[i] << "Addr -> 0x";
 		printf("%X", registers[i]);
 		printf("%s",(char *)(": ") );
 		printf("%X \n", readRegister(registers[i]) );
